@@ -1,6 +1,15 @@
 body{
     background: url("../images/bg.png")
 }
+
+/*-----typo-------*/
+.typo p{
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1.8;
+    text-align: justify;
+}
+/*------padded------*/
 .m-padded-mini{
     padding:0.2em !important;
 }
